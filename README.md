@@ -1,1 +1,1 @@
-oy program
+py program
